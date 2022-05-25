@@ -10,10 +10,3 @@
 
 
 
-
-- 📫 **我的主页**
-
-<table frame=void rules=none><tr>
-<td> <img src="https://stats.justsong.cn/api/csdn?id=shn111&theme=dark"> </td>
-<td> <img src="https://stats.justsong.cn/api/csdn?id=shn111&theme=dark"> </td>
-</tr></table>
