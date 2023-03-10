@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm ShiHaoNan</h1>
-<h3 align="center">河南大学2019级信息安全本科生</h3>
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
