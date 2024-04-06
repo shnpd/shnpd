@@ -1,9 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm ShiHaoNan</h1>
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
-<br>
-
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -14,3 +10,4 @@
   <a href="https://github.com/shnpd"><img src="https://img.shields.io/badge/GitHub-%E4%BB%93%E5%BA%93-black"></a>&emsp;
 </div>
 
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=shnpd)]()
