@@ -10,4 +10,5 @@
   <a href="https://github.com/shnpd"><img src="https://img.shields.io/badge/GitHub-%E4%BB%93%E5%BA%93-black"></a>&emsp;
 </div>
 
+<div align = "center" href="https://github-readme-stats.vercel.app/api?username=shnpd"/>
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=shnpd)]()
