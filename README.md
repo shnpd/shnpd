@@ -50,6 +50,6 @@
 ---
 
 <div align="center">
-    <img src="https://media1.giphy.com/media/JRmluCCJv13yEDmEFd/200.webp?cid=790b7611iy9c7tmeyqj5zzuazo8lzm2eft03z4tinewxqsyc&ep=v1_gifs_search&rid=200.webp&ct=g" height="150" width="450"/>
-    <img src="https://media1.giphy.com/media/JRmluCCJv13yEDmEFd/200.webp?cid=790b7611iy9c7tmeyqj5zzuazo8lzm2eft03z4tinewxqsyc&ep=v1_gifs_search&rid=200.webp&ct=g" height="150" width="450"/>
+    <img src="https://media1.giphy.com/media/JRmluCCJv13yEDmEFd/200.webp?cid=790b7611iy9c7tmeyqj5zzuazo8lzm2eft03z4tinewxqsyc&ep=v1_gifs_search&rid=200.webp&ct=g" height="150" width="400"/>
+    <img src="https://media1.giphy.com/media/JRmluCCJv13yEDmEFd/200.webp?cid=790b7611iy9c7tmeyqj5zzuazo8lzm2eft03z4tinewxqsyc&ep=v1_gifs_search&rid=200.webp&ct=g" height="150" width="400"/>
 </div>
