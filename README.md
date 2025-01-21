@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm ShiHaoNan</h1>
 
 <div align="center">
-    <img src="https://media2.giphy.com/media/jF1oqkXJL0Mda/giphy.webp?cid=ecf05e47wbi53k0knanj65mya987548392bsas5asji4ohwr&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="20%"/>
-    <img src="https://media2.giphy.com/media/jF1oqkXJL0Mda/giphy.webp?cid=ecf05e47wbi53k0knanj65mya987548392bsas5asji4ohwr&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="20%"/>
-    <img src="https://media2.giphy.com/media/jF1oqkXJL0Mda/giphy.webp?cid=ecf05e47wbi53k0knanj65mya987548392bsas5asji4ohwr&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="20%"/>
-    <img src="https://media2.giphy.com/media/jF1oqkXJL0Mda/giphy.webp?cid=ecf05e47wbi53k0knanj65mya987548392bsas5asji4ohwr&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="20%"/>
+    <img src="https://media2.giphy.com/media/jF1oqkXJL0Mda/giphy.webp?cid=ecf05e47wbi53k0knanj65mya987548392bsas5asji4ohwr&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="40%"/>
 </div>
 
 
@@ -48,6 +45,5 @@
 ---
 
 <div align="center">
-    <img src="https://media1.giphy.com/media/JRmluCCJv13yEDmEFd/200.webp?cid=790b7611iy9c7tmeyqj5zzuazo8lzm2eft03z4tinewxqsyc&ep=v1_gifs_search&rid=200.webp&ct=g" height="150" width="400"/>
     <img src="https://media1.giphy.com/media/JRmluCCJv13yEDmEFd/200.webp?cid=790b7611iy9c7tmeyqj5zzuazo8lzm2eft03z4tinewxqsyc&ep=v1_gifs_search&rid=200.webp&ct=g" height="150" width="400"/>
 </div>
