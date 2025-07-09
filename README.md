@@ -35,7 +35,4 @@
 </a>
 
 
-## 🎈 Visitor count
-<img src="https://profile-counter.glitch.me/shnpd/count.svg" />
-
 ---
